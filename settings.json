@@ -8,8 +8,8 @@
         }
     },
     # MODIFY THESE FONTS IF YOU WANT
-    "editor.fontFamily": "'JetBrainsMono NF'",
-    "terminal.integrated.fontFamily": "'JetBrainsMono NF'",
+    "editor.fontFamily": "'JetBrains Mono'",
+    "terminal.integrated.fontFamily": "'JetBrains Mono'",
     "workbench.iconTheme": "material-icon-theme",
     "mesonbuild.configureOnOpen": false,
     "workbench.colorCustomizations": {
