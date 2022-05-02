@@ -1,0 +1,9 @@
+[user]
+	email = hello@jamiethalacker.dev
+	name = ItsJamie9494
+[core]
+	editor = flatpak run --env=GDK_BACKEND=wayland --file-forwarding re.sonny.Commit @@
+[init]
+	defaultBranch = main
+[pull]
+	rebase = false

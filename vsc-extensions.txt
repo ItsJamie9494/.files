@@ -1,0 +1,68 @@
+VSCode Extensions
+-----------------
+
+Name: Material Icon Theme
+Id: PKief.material-icon-theme
+Description: Material Design Icons for Visual Studio Code
+Version: 4.16.0
+Publisher: Philipp Kief
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+
+Name: EditorConfig for VS Code
+Id: EditorConfig.EditorConfig
+Description: EditorConfig Support for Visual Studio Code
+Version: 0.16.4
+Publisher: EditorConfig
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+
+Name: Code Spell Checker
+Id: streetsidesoftware.code-spell-checker
+Description: Spelling checker for source code
+Version: 2.1.11
+Publisher: Street Side Software
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
+
+Languages
+---------
+
+Name: Meson
+Id: asabil.meson
+Description: Meson language support for Visual Studio Code
+Version: 1.3.0
+Publisher: Ali Sabil
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=asabil.meson
+
+Name: RPM Spec
+Id: 1dot75cm.RPMSpec
+Description: RPM Spec support for Visual Studio Code
+Version: 0.1.0
+Publisher: 1dot75cm
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=1dot75cm.RPMSpec
+
+Name: Python
+Id: ms-python.python
+Description: IntelliSense (Pylance), Linting, Debugging (multi-threaded, remote), Jupyter Notebooks, code formatting, refactoring, unit tests, and more.
+Version: 2022.4.1
+Publisher: Microsoft
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ms-python.python
+
+Name: Vala
+Id: prince781.vala
+Description: Syntax highlighting and language support for the Vala / Genie languages
+Version: 1.0.7
+Publisher: Princeton Ferro
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=prince781.vala
+
+Name: XML
+Id: redhat.vscode-xml
+Description: XML Language Support by Red Hat
+Version: 0.20.0
+Publisher: Red Hat
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml
+
+Name: YAML
+Id: redhat.vscode-yaml
+Description: YAML Language Support by Red Hat, with built-in Kubernetes syntax support
+Version: 1.7.0
+Publisher: Red Hat
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml
